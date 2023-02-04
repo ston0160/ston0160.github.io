@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'NeutralFace';
+    src: url(fonts/NeutralFace.otf);
+}
+
 body {
     background-color: darkslategray;
     margin: 0px;
@@ -12,7 +17,7 @@ body {
 .menu-item {
     color: rgb(216, 132, 64);
     font-size: clamp(3rem, 8vw, 8rem);
-    font-family: "Ibarra Real Nova", serif;
+    font-family: 'NeutralFace', 'Ibarra Real Nova', serif;
 
     display: block;
     text-decoration: none;
