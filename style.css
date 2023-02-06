@@ -16,7 +16,7 @@ body {
 
 .menu-item {
     color: rgb(216, 132, 64);
-    font-size: clamp(3rem, 8vw, 8rem);
+    font-size: clamp(3rem, 8vw, 5rem);
     font-family: 'NeutralFace', 'Ibarra Real Nova', serif;
 
     display: block;
@@ -26,4 +26,12 @@ body {
 
 #menu-items {
     margin-left: clamp(4rem, 20vw, 48rem);
+}
+
+#menu-items:hover > .menu-item {
+    opacity: 0.5;
+}
+
+#menu-items:hover > .menu-item:hover {
+    opacity: 1;
 }
