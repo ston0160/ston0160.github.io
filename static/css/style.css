@@ -1,8 +1,8 @@
 /* LAYOUT */
 
 @font-face {
-    font-family: 'NeutralFace';
-    src: url('/font/NeutralFace.otf') format('opentype');
+    font-family: 'Heebo-ExtraLight';
+    src: url('/font/heebo/static/Heebo-ExtraLight.ttf') format('truetype');
 }
 
 :root {}
