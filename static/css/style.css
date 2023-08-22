@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  font-family: 'NeutralFace';
+  font-family: 'Heebo-ExtraLight';
 
 }
 
@@ -37,7 +37,7 @@ h1 {
 .site-nav a {
   display: block;
   padding: 1rem;
-  font-family: 'NeutralFace';
+  font-family: 'Heebo-ExtraLight';
 }
 
 .site-nav .logo {
