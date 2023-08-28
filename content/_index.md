@@ -2,7 +2,11 @@
 title: "Home"
 ---
 
-# Richard Stone - Computer Science Graduate 
+# Hi, I'm Richard 
+
+A Computer Science Graduate from Flinders University, and
+I am eager to apply my knowledge and skills 
+
 
 --intro about career--
 
