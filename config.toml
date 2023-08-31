@@ -1,11 +1,6 @@
 baseURL = "https://canche.com"
 title = "Richard Stone"
 
-[markup]
-  defaultMarkdownHandler = 'blackFriday'
-  [markup.blackFriday]
-    hrefTargetBlank = true
-
 [menu]
   [[menu.main]]
     identifier = "projects"
