@@ -1,6 +1,11 @@
 baseURL = "https://canche.com"
 title = "Richard Stone"
 
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true
+
 [menu]
   [[menu.main]]
     identifier = "projects"
@@ -9,7 +14,10 @@ title = "Richard Stone"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "contact"
+    name = "Contact"
+    url = "mailto:richardstonereyes@gmail.com"
     weight = 20
+
+[params]
+  customheadingFontFamily = "Heebo-ExtraLight"

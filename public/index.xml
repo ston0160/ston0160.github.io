@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Richard Stone</title>
+    <link>https://canche.com/</link>
+    <description>Recent content in Home on Richard Stone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Jul 2023 17:27:59 +0930</lastBuildDate><atom:link href="https://canche.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project X</title>
+      <link>https://canche.com/projects/project-x/</link>
+      <pubDate>Mon, 24 Jul 2023 17:27:59 +0930</pubDate>
+      
+      <guid>https://canche.com/projects/project-x/</guid>
+      <description>Here&amp;rsquo;s an example project.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://canche.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://canche.com/about/</guid>
+      <description>Here&amp;rsquo;s a bit about me.</description>
+    </item>
+    
+  </channel>
+</rss>

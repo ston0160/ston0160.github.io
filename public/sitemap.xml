@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://canche.com/</loc>
+    <lastmod>2023-07-24T17:27:59+09:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canche.com/projects/project-x/</loc>
+    <lastmod>2023-07-24T17:27:59+09:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canche.com/projects/</loc>
+    <lastmod>2023-07-24T17:27:59+09:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canche.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://canche.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://canche.com/tags/</loc>
+  </url>
+  
+</urlset>
