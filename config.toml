@@ -1,5 +1,5 @@
 baseURL = "https://canche.com"
-title = "Richard Stone"
+title = "Home"
 
 [menu]
   [[menu.main]]
@@ -7,12 +7,6 @@ title = "Richard Stone"
     name = "Projects"
     url = "/projects"
     weight = 10
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "mailto:richardstonereyes@gmail.com"
-    weight = 20
 
 [params]
   customheadingFontFamily = "Heebo-ExtraLight"
